@@ -1,6 +1,4 @@
-import Posts from './components/Posts';
 import './App.css';
-import Header from './components/Header';
 import {Routes,Route} from 'react-router-dom'
 import Layout from './Layout';
 import IndexPage from './pages/IndexPage';
